@@ -6,8 +6,8 @@
 package controlador;
 
 /**
- *
- * @author Zamuel
+ *Aquí se declaran el usuario y la contraseña 
+ * @author+
  */
 public class Datos {
     public boolean validarUsuario(String user, String password){

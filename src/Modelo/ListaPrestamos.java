@@ -10,7 +10,7 @@ import controlador.Prestamos;
 import controlador.NodoPrestamos;
 /**
  *
- * @author ZMELISSA
+ * @author Meliza
  * 
  * 
  */

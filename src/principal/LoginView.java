@@ -37,6 +37,8 @@ public class LoginView extends javax.swing.JDialog {
         label1.setText("Registrate  Ahora");
 
         setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
+        setBackground(new java.awt.Color(51, 153, 255));
+        setResizable(false);
 
         lblTitulo.setFont(new java.awt.Font("Dutch801 XBd BT", 1, 18)); // NOI18N
         lblTitulo.setForeground(new java.awt.Color(102, 153, 255));
