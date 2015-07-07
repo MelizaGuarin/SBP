@@ -134,6 +134,7 @@ public class Usuario {
     @Override
     public String toString() {
         //Retorne estos valores al fomulario de las interfaces graficas, o vistas. 
+        
         return "Cédula:  " + cedula +" \n " + "Apellidos:  "+apellido+" \n " + "Nombres:  "+nombres+" \n " + "Celular:  "+Telefono+" \n " + "Perfil:  "+Celular+ "\n" + "Correo Electronico:  "+Perfil+" \n " + "Teléfono:  "+FechaNacimiento+" \n "+ "Fecha de Nacimieno:  "+CorreoElectronico+" \n "+ "Contraseña:  "+Contraseña+" \n " ;
     }
 

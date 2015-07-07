@@ -82,6 +82,9 @@ public class ListaUsuario {
         }
         
     }
+    // se agrega a cada formulario validaciones de campos
+    //los cuales verifican que no esten vacios .. 
+    //no se puede ingresar un registro a la lista si algun campo no se ha llenado
     
     //Se Empieza a eliminar, la LISTA, con todos los nodos,que hayan dentro. 
     public void eliminarLista(){
